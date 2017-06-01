@@ -4,4 +4,5 @@ Disallow: /Hram
 Disallow: /ABC
 Disallow: /Trop
 Disallow: /Life
+Disallow: /Images
 Host: xn----7sbabkptb3bfqdlihc7e.xn--80adxhks
